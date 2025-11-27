@@ -117,12 +117,12 @@ const Layout: React.FC = () => {
             </div>
             <div>
               <h3 className="text-white font-semibold mb-4">联系我们</h3>
-              <p className="text-sm text-stone-400 mb-2">Email: contact@yijiexinglian.edu.cn</p>
-              <p className="text-sm text-stone-400">地址: 某某大学外国语学院</p>
+              <p className="text-sm text-stone-400 mb-2">Email: nvgudp8642@163.com(项目负责人邮箱)</p>
+              <p className="text-sm text-stone-400">西安外国语大学高级翻译学院</p>
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-stone-800 text-center text-xs text-stone-500">
-            &copy; 2023 YiJieXingLian Translator Alliance. All rights reserved.
+            &copy; 2025 YiJieXingLian Translator Alliance. All rights reserved.
           </div>
         </div>
       </footer>
