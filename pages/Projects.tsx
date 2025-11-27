@@ -21,7 +21,7 @@ const Projects: React.FC = () => {
   return (
     <div className="max-w-7xl mx-auto px-4 py-8 sm:px-6 lg:px-8 bg-stone-50 min-h-[calc(100vh-64px)]">
       <div className="mb-8">
-        <h1 className="text-3xl font-bold text-stone-900">众包任务看板</h1>
+        <h1 className="text-3xl font-bold text-stone-900">众包任务看板（示例）</h1>
         <p className="mt-2 text-stone-600">浏览并认领适合你的翻译任务，开始实战。</p>
       </div>
 
