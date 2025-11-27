@@ -69,7 +69,7 @@ const Growth: React.FC = () => {
         {/* Right Column: Training Courses */}
         <div className="lg:col-span-2">
           <div className="mb-6">
-             <h1 className="text-3xl font-bold text-stone-900">培训课程</h1>
+             <h1 className="text-3xl font-bold text-stone-900">培训课程（示例）</h1>
              <p className="mt-2 text-stone-600">体系化课程助力技能提升，解锁更高等级任务。</p>
           </div>
 
