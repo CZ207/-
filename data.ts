@@ -89,30 +89,30 @@ export const COURSES: Course[] = [
   {
     id: '1',
     title: '影视字幕翻译基础',
-    instructor: '李教授',
+    instructor: '祖赟',
     type: 'Online',
-    targetLevel: '初级译者'
+    targetLevel: '初级译者学习'
   },
   {
     id: '2',
     title: '红色文化核心术语解析',
-    instructor: '王研究员',
+    instructor: '王小燕',
     type: 'PDF',
-    targetLevel: '中级译者'
+    targetLevel: '中级译者学习'
   },
   {
     id: '3',
     title: 'Aegisub 字幕制作实战',
     instructor: '技术组',
     type: 'Offline',
-    targetLevel: '初级译者'
+    targetLevel: '初级译者学习'
   },
   {
     id: '4',
     title: '高级审校与质量控制',
-    instructor: '张总监',
+    instructor: '李老师',
     type: 'Online',
-    targetLevel: '校审译者'
+    targetLevel: '校审译者学习'
   }
 ];
 
