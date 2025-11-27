@@ -17,9 +17,9 @@ const Join: React.FC = () => {
             加入“译界星链”，你将获得真实的红色影视项目翻译经验，不仅能打磨语言技能，更能为中国文化的国际传播贡献力量。
           </p>
           <ul className="space-y-3 mb-8 text-sm text-stone-500">
-            <li className="flex gap-2"><Check /> 外语专业本科/研究生在读</li>
+            <li className="flex gap-2"><Check /> 外语专业本科/研究生在读优先</li>
             <li className="flex gap-2"><Check /> 具备CATTI三级或同等水平优先</li>
-            <li className="flex gap-2"><Check /> 热爱红色文化与影视翻译</li>
+            <li className="flex gap-2"><Check /> 热爱红色文化与影视翻译优先</li>
           </ul>
           <a 
             href="#" 
@@ -27,27 +27,27 @@ const Join: React.FC = () => {
           >
             填写报名表 <ExternalLink size={18} />
           </a>
-          <p className="text-xs text-center text-stone-400 mt-2">跳转至问卷星/Google Forms</p>
+          <p className="text-xs text-center text-stone-400 mt-2">跳转至问卷星</p>
         </div>
 
         {/* For Partners */}
         <div className="bg-stone-800 p-8 rounded-xl shadow-lg border-t-4 border-stone-500 text-white">
           <h2 className="text-2xl font-bold mb-4">项目合作对接</h2>
           <p className="text-stone-300 mb-6">
-            我们为博物馆、纪念馆、影视制作公司提供专业的字幕翻译、多语种解说词撰写及海外推广支持。
+            我们可为博物馆、纪念馆、影视制作公司提供专业的字幕翻译、多语种解说词撰写及海外推广的支持。
           </p>
           <div className="space-y-4 mb-8">
              <div className="flex items-center gap-3 text-stone-300">
                <Mail className="text-primary-400" />
-               <span>cooperation@yijiexinglian.edu.cn</span>
+               <span>负责人邮箱：nvgudp8642@163.com</span>
              </div>
              <div className="flex items-center gap-3 text-stone-300">
                <MessageSquare className="text-primary-400" />
-               <span>微信公众号：译界星链Official</span>
+               <span>微信公众号：西外高翻博译</span>
              </div>
           </div>
           <a 
-            href="mailto:cooperation@yijiexinglian.edu.cn"
+            href="mailto:nvgudp8642@163.com"
             className="block w-full text-center py-3 bg-white hover:bg-stone-100 text-stone-900 font-bold rounded-lg transition-colors"
           >
             发送合作邮件
@@ -59,8 +59,8 @@ const Join: React.FC = () => {
       <div className="mt-16 text-center border-t border-stone-200 pt-8">
         <h3 className="font-bold text-stone-900 mb-2">项目团队</h3>
         <p className="text-stone-600 text-sm">
-          某某大学外国语学院 · 国际传播学部<br/>
-          地址：xx省xx市xx区xx路xx号
+          西安外国语大学高级翻译学院<br/>
+          地址：陕西省西安市郭杜教育科技产业开发区文苑南路
         </p>
       </div>
     </div>
