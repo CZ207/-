@@ -1,7 +1,7 @@
 export enum TaskStatus {
-  RECRUITING = '招募中',
-  IN_PROGRESS = '进行中',
-  COMPLETED = '已完成',
+  RECRUITING = '未开始',
+  IN_PROGRESS = '未开始',
+  COMPLETED = '未开始',
 }
 
 export enum TaskDifficulty {
