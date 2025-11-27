@@ -78,7 +78,7 @@ const Projects: React.FC = () => {
                   {task.status}
                 </span>
                 <span className="text-xs text-stone-500 flex items-center gap-1">
-                  <Clock size={12} /> {task.deadline} 截止
+                  <Clock size={12} /> {task.deadline} 预计开始时间
                 </span>
               </div>
               <h3 className="text-lg font-bold text-stone-900 mb-2 line-clamp-2">{task.title}</h3>
@@ -109,7 +109,7 @@ const Projects: React.FC = () => {
                  </a>
                ) : (
                  <button disabled className="block w-full py-2 bg-stone-200 text-stone-500 text-sm font-medium rounded cursor-not-allowed">
-                   {task.status === TaskStatus.COMPLETED ? '已结束' : '名额已满'}
+                   {task.status === TaskStatus.COMPLETED ? '还未到时间' : '还未到时间'}
                  </button>
                )}
             </div>
