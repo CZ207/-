@@ -8,7 +8,7 @@ export const TASKS: ProjectTask[] = [
     topic: '红色历史',
     language: '中英',
     difficulty: TaskDifficulty.MEDIUM,
-    deadline: '2023-12-01',
+    deadline: '2026-2-01',
     status: TaskStatus.RECRUITING,
     description: '延安革命纪念馆合作项目，需具备一定的历史名词翻译基础。'
   },
@@ -19,7 +19,7 @@ export const TASKS: ProjectTask[] = [
     topic: '展览',
     language: '中日',
     difficulty: TaskDifficulty.HARD,
-    deadline: '2023-11-20',
+    deadline: '2026-2-01',
     status: TaskStatus.IN_PROGRESS,
     description: '展览核心板块解说词翻译，要求风格庄重准确。'
   },
@@ -30,7 +30,7 @@ export const TASKS: ProjectTask[] = [
     topic: '旅游',
     language: '中俄',
     difficulty: TaskDifficulty.EASY,
-    deadline: '2023-12-15',
+    deadline: '2026-2-01',
     status: TaskStatus.RECRUITING,
     description: '面向俄罗斯游客的短视频推广，语言需生动活泼。'
   },
@@ -41,7 +41,7 @@ export const TASKS: ProjectTask[] = [
     topic: '音乐史',
     language: '中文',
     difficulty: TaskDifficulty.EASY,
-    deadline: '2023-11-10',
+    deadline: '2026-2-01',
     status: TaskStatus.COMPLETED,
     description: '协助整理相关历史文献，为后续多语种翻译做准备。'
   }
